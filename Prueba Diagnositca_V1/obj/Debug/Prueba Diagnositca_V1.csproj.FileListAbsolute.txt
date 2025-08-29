@@ -1,0 +1,7 @@
+C:\Users\PICI GAMER 4.0\Desktop\Prueba_DiagnosticaV1\Carpeta principal de proyecto\Prueba Diagnositca_V1\bin\Debug\Prueba Diagnositca_V1.exe.config
+C:\Users\PICI GAMER 4.0\Desktop\Prueba_DiagnosticaV1\Carpeta principal de proyecto\Prueba Diagnositca_V1\bin\Debug\Prueba Diagnositca_V1.exe
+C:\Users\PICI GAMER 4.0\Desktop\Prueba_DiagnosticaV1\Carpeta principal de proyecto\Prueba Diagnositca_V1\bin\Debug\Prueba Diagnositca_V1.pdb
+C:\Users\PICI GAMER 4.0\Desktop\Prueba_DiagnosticaV1\Carpeta principal de proyecto\Prueba Diagnositca_V1\obj\Debug\Prueba Diagnositca_V1.csproj.AssemblyReference.cache
+C:\Users\PICI GAMER 4.0\Desktop\Prueba_DiagnosticaV1\Carpeta principal de proyecto\Prueba Diagnositca_V1\obj\Debug\Prueba Diagnositca_V1.csproj.CoreCompileInputs.cache
+C:\Users\PICI GAMER 4.0\Desktop\Prueba_DiagnosticaV1\Carpeta principal de proyecto\Prueba Diagnositca_V1\obj\Debug\Prueba Diagnositca_V1.exe
+C:\Users\PICI GAMER 4.0\Desktop\Prueba_DiagnosticaV1\Carpeta principal de proyecto\Prueba Diagnositca_V1\obj\Debug\Prueba Diagnositca_V1.pdb
